@@ -74,27 +74,5 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 
 
 
-## FAQs
 
-### What is a Getting Started competition?
-
-Getting Started competitions were created by Kaggle data scientists for people who have little to no machine learning background. They are a great place to begin if you are new to data science or just finished a MOOC and want to get involved in Kaggle.
-
-Getting Started competitions are a non-competitive way to get familiar with Kaggle’s platform, learn basic machine learning concepts, and start meeting people in the community. They have no cash prize and are on a rolling timeline.
-
-### What’s the difference between a private and public leaderboard?
-
-The Kaggle leaderboard has a public and private component to prevent participants from “overfitting” to the leaderboard. If your model is “overfit” to a dataset then it is not generalizable outside of the dataset you trained it on. This means that your model would have low accuracy on another sample of data taken from a similar dataset.
-
-**Public Leaderboard**
-
-For all participants, the same 50% of predictions from the test set are assigned to the public leaderboard. The score you see on the public leaderboard reflects your model’s accuracy on this portion of the test set.
-
-**Private Leaderboard**
-
-The other 50% of predictions from the test set are assigned to the private leaderboard. The private leaderboard is not visible to participants until the competition has concluded. At the end of a competition, we will reveal the private leaderboard so you can see your score on the other 50% of the test data. The scores on the private leaderboard are used to determine the competition winners. Getting Started competitions are run on a rolling timeline so the private leaderboard is never revealed.
-
-### What are kernels?
-
-Kaggle Kernels is a cloud computational environment that enables reproducible and collaborative analysis. Kernels supports scripts in R and Python, Jupyter Notebooks, and RMarkdown reports. Go to the [Kernels tab](https://www.kaggle.com/c/titanic/kernels) to view all of the publicly shared code on this competition. For more on how to use Kernels to learn data science, visit the [Tutorials tab](https://www.kaggle.com/c/titanic#tutorials).
 
