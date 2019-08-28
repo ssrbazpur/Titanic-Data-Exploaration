@@ -2,7 +2,7 @@
 
 **Titanic: Machine Learning from Disaster** 
 
-**Start here! Predict survival on the Titanic and get familiar with ML basics**
+**Start here! This is only Data Exploaration of titanic data to get better understanding of the data**
 
 **Website :** https://www.kaggle.com/c/titanic
 
